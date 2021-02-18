@@ -1,0 +1,48 @@
+.container{
+    width: 70%;
+    margin: auto;
+}
+
+.card{
+    width: 30%;
+     height: 550px; 
+    display: inline-block;
+    vertical-align:top; 
+    border: solid 2px grey;
+    margin-right: 3%;
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+}
+
+.first{
+    width: 63.5%;
+}
+
+.upper .card{
+    height: 550px;
+
+}
+
+.below .card{
+    height:450px;
+    margin-top: 3%;
+}
+
+h2{
+    margin-left: 2%;
+}
+
+p{
+    margin-left:2% ;
+}
+
+.buttons{
+    width: 90%;
+    margin-left: 3%;
+    
+
+}
+
